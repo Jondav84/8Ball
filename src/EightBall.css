@@ -1,0 +1,11 @@
+.eight-ball {
+    color: rgb(255, 255, 255);
+    height: 60vh;
+    width: 60vw;
+    display: flex;
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    border-radius: 50%;
+}
